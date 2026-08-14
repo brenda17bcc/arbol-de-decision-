@@ -1,44 +1,44 @@
-# 🌳 Predicción de Diabetes con Árbol de Decisión
+# 🌳 Diabetes Prediction with Decision Tree
 
-Proyecto de **machine learning** en el que se construye un modelo de clasificación con el algoritmo de **árbol de decisión** para predecir si un paciente tiene diabetes a partir de sus medidas diagnósticas.
+A **machine learning** project that builds a classification model using the **decision tree** algorithm to predict whether a patient has diabetes based on their diagnostic measurements.
 
-## 🎯 Objetivo
+## 🎯 Goal
 
-Predecir el diagnóstico de diabetes (positivo o negativo) usando datos médicos de pacientes, y optimizar el modelo para mejorar sus resultados.
+Predict a diabetes diagnosis (positive or negative) using patients' medical data, and optimize the model to improve its results.
 
-## 🔧 Proceso
+## 🔧 Process
 
-- **Exploración y análisis** del dataset médico (procedente del National Institute of Diabetes).
-- **Preprocesamiento** y selección de variables relevantes.
-- **División** de los datos en conjuntos de entrenamiento y prueba.
-- **Construcción del árbol de decisión** y entrenamiento del modelo.
-- **Optimización** probando distintas funciones de pureza de los nodos.
-- **Evaluación** de resultados y visualización del árbol.
+- **Exploration and analysis** of the medical dataset (from the National Institute of Diabetes).
+- **Preprocessing** and selection of relevant features.
+- **Splitting** the data into training and test sets.
+- **Building the decision tree** and training the model.
+- **Optimization** by testing different node purity functions.
+- **Evaluation** of results and visualization of the tree.
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 - **Python**
-- **scikit-learn** (árbol de decisión)
-- **pandas** y **NumPy** (manejo de datos)
-- **Matplotlib** (visualización)
+- **scikit-learn** (decision tree)
+- **pandas** and **NumPy** (data handling)
+- **Matplotlib** (visualization)
 - **Jupyter Notebook**
 
-## 📚 Conceptos practicados
+## 📚 Concepts Practiced
 
-- Modelos de clasificación supervisada
-- Árboles de decisión y funciones de pureza (Gini, entropía)
-- División train/test y evaluación de modelos
-- Optimización de hiperparámetros
+- Supervised classification models
+- Decision trees and purity functions (Gini, entropy)
+- Train/test splitting and model evaluation
+- Hyperparameter optimization
 
-## 🚀 Cómo ejecutarlo
+## 🚀 How to Run
 
-1. Clona el repositorio:
+1. Clone the repository:
 ```bash
    git clone https://github.com/brenda17bcc/arbol-de-decision-.git
 ```
-2. Abre el notebook (`.ipynb`) en Jupyter Notebook o en GitHub Codespaces.
-3. Ejecuta las celdas en orden.
+2. Open the notebook (`.ipynb`) in Jupyter Notebook or GitHub Codespaces.
+3. Run the cells in order.
 
 ---
 
-Proyecto realizado como parte del bootcamp de **Data Science & Machine Learning** en 4Geeks Academy.
+Project completed as part of the **Data Science & Machine Learning** bootcamp at 4Geeks Academy.
